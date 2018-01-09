@@ -4,7 +4,7 @@ uses
   Forms,
   MFEditor in 'MFEditor.pas' {FEditor},
   f_PageProperty in '..\f_PageProperty.pas' {FPageProperty};
-
+	tako tako tako
 {$R *.res}
 
 begin
