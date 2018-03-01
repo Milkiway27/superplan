@@ -32,6 +32,7 @@ type
     cbShowTextArea: TCheckBox;
     stat1: TStatusBar;
     ImageList2: TImageList;
+    //ll
     ImageList1: TImageList;
     SaveDialog1: TSaveDialog;
     OpenDialog1: TOpenDialog;
