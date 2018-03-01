@@ -1,15 +1,3 @@
-{
-
- This is an example of basic WYSIWYG editor.
-
- This demo shows how to:
- - define page zoom, paper size and margins;
- - create vertical menu (in the bottom right corner, searches in document);
- - create horizontal menu (in the bottom left corner, switches document views);
- - customize TSRVToolWindow.
-
-}
-
 unit MFEditor;
 
 interface
