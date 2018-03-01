@@ -10,6 +10,7 @@ uses
   RVItem;
 
 type
+//bardzo wazna dodatkowa informacja w tym unicie
   TFEditor = class(TForm)
     Panel1: TPanel;
     Panel2: TPanel;
