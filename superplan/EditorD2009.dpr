@@ -12,4 +12,6 @@ begin
   Application.CreateForm(TFEditor, FEditor);
   Application.CreateForm(TFPageProperty, FPageProperty);
   Application.Run;
+  //taka dodatkowa informacja:)
+  //jednak jeszcze jedna dodatkowa informacja
 end.
