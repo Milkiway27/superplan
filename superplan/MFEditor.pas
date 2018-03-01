@@ -83,6 +83,8 @@ type
     { Private declarations }
   public
     { Public declarations }
+    
+    
   end;
 
 var
