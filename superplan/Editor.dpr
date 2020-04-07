@@ -12,4 +12,5 @@ begin
   Application.CreateForm(TFEditor, FEditor);
   Application.CreateForm(TFPageProperty, FPageProperty);
   Application.Run;
+  //mała zmiana
 end.
