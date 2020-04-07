@@ -13,4 +13,5 @@ begin
   Application.CreateForm(TFPageProperty, FPageProperty);
   Application.Run;
   //mała zmiana
+  //dodatkowo coś
 end.
