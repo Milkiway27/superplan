@@ -4,6 +4,8 @@ uses
   Forms,
   MFEditor in 'MFEditor.pas' {FEditor},
   f_PageProperty in '..\f_PageProperty.pas' {FPageProperty};
+  //
+  //
 
 {$R *.res}
 
