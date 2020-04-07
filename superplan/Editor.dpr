@@ -14,4 +14,5 @@ begin
   Application.Run;
   //mała zmiana
   //dodatkowo coś
+  //ff
 end.
